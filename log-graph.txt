@@ -1,0 +1,7 @@
+*   e759fcf Merge branch 'dev'
+|\  
+| * 69819e3 Change readme.md in dev branch
+* | 72796ad Cnange readme.md in hotFix branch
+|/  
+* 0330150 Add readme.md
+* 4283dfc Add .gitignore
